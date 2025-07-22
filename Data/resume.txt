@@ -1,0 +1,24 @@
+Tamilore Smith
+Email: tami@example.com
+Phone: +123456789
+
+Summary:
+A passionate and detail-oriented software developer with experience in full-stack web applications and data-driven solutions.
+
+Skills:
+- Python
+- Flask
+- SQL
+- HTML/CSS
+- JavaScript
+- Git
+
+Experience:
+Software Developer Intern Ð FinTech XYZ (Jan 2024 Ð Jun 2024)
+- Built REST APIs with Flask
+- Developed a secure payment form with encryption
+- Integrated MySQL for backend data storage
+
+Education:
+University of Example
+BSc Computer Science, 2022Ð2025
